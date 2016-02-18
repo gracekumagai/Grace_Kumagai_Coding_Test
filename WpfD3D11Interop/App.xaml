@@ -1,0 +1,12 @@
+﻿<!-- file = "App.xaml"
+    From Microsoft's WPF DirectX Interlop Sample
+    Grace Kumagai -->
+    
+    <Application x:Class="Microsoft.Samples.Wpf.D3D11Interop.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

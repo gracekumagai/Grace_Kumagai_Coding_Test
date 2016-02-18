@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (D3DVisualization_winsdk.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  D3DVisualization_dxsdk.vcxproj -> C:\Users\Grace\Desktop\WPFDXInterop\samples\D3D11Image\x64\Debug\D3DVisualization.dll
+          1 file(s) copied.
